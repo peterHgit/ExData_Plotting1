@@ -56,7 +56,8 @@ with(dat, {
                col = c("black", "red", "blue"),
                bty = "n",
                lty = c(1,1),
-               legend = c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"))
+               legend = c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
+               cex = 0.5)
         }
      )
 
